@@ -1,0 +1,9 @@
+* これは何?
+  穴掘り法による迷路生成スクリプト．
+  某NA の某課題の Python 実装．
+
+* 実行方法
+  #+BEGIN_SRC sh
+$ /path/to/%s WIDTH HEIGHT
+  #+END_SRC
+  WIDTH と HEIGHT は共に奇数．
