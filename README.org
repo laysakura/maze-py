@@ -4,6 +4,6 @@
 
 * 実行方法
   #+BEGIN_SRC sh
-$ /path/to/%s WIDTH HEIGHT
+$ /path/to/maze.py WIDTH HEIGHT
   #+END_SRC
   WIDTH と HEIGHT は共に奇数．
